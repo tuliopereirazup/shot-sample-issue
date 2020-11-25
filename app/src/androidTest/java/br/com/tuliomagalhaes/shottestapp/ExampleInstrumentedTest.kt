@@ -1,8 +1,8 @@
 package br.com.tuliomagalhaes.shottestapp
 
 import androidx.test.core.app.ActivityScenario
+import com.karumi.shot.ActivityScenarioUtils.waitForActivity
 import com.karumi.shot.ScreenshotTest
-import com.karumi.shot.waitForActivity
 
 import org.junit.Test
 
